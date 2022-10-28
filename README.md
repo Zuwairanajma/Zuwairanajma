@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Zuwaira Sadiq
+### Hi there 👋 I am Zuwaira Sadiq
 I am a tech enthusiasts and love exploring tech skills.
 - 🔭 I’m currently working on building projects on frontend web development.
 - 🌱 I’m currently learning frontend skills and data sciences with machine learning algorithm operators.
