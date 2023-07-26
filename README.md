@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there 👋 I am Zuwaira Sadiq<br>I am a full-stack software developer, and a tech enthusiast, and love exploring tech skills.<br><br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: juwairiyyasadiq@gmail.com<br>😄 Pronouns: She<br>⚡ Fun fact: I love dancing -->
+Hi there 👋 I am Zuwaira Sadiq<br>I am a full-stack software developer, and a tech enthusiast, and love exploring tech skills.<br>
+<img src="github-banner-image.png" alt="Banner about Zuwaira Sadiq">
+
+<!-- <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Zuwaira Sadiq"> -->
+
+<br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: juwairiyyasadiq@gmail.com<br>😄 Pronouns: She<br>⚡ Fun fact: I love dancing -->
 
 
 ## 🌐 Socials:
@@ -25,10 +30,10 @@ Hi there 👋 I am Zuwaira Sadiq<br>I am a full-stack software developer, and a 
 [![](https://visitcount.itsvg.in/api?id=Zuwairanajma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zuwairanajma&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
