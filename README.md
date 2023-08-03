@@ -1,6 +1,6 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A244A&width=435&lines=Hey+There,+I+am+Zuwaira+Sadiq;A+Full-Stack+Web+Developer+;and+a+Tech+Enthusiast)](https://git.io/typing-svg)<br>
-<!-- Hi there 👋 I am Zuwaira Sadiq<br>I am a full-stack software developer, and a tech enthusiast, and love exploring tech skills.<br> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A244A&width=435&lines=Hey+There,+I+am+Zuwaira+Sadiq,;A+Full-Stack+Web+Developer,+;and+a+Tech+Enthusiast.)](https://git.io/typing-svg)<br>
+<!-- Hi there, 👋 I am Zuwaira Sadiq<br>I am a full-stack software developer, and a tech enthusiast, and love exploring tech skills.<br> -->
 <br> <img src="github-banner-image.png" alt="Banner about Zuwaira Sadiq">
 
 <br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: juwairiyyasadiq@gmail.com<br>😄 Pronouns: She<br>⚡ Fun fact: I love dancing -->
